@@ -1,6 +1,6 @@
 {
   "name": "Jenkins-NodeJS-Test",
-  "version": "0.1",
+  "version": "1.0.1",
   "description": "Jenkins-NodeJS-Test",
   "main": "index.js",
   "directories": {
